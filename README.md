@@ -1,6 +1,6 @@
 # create_htmltag
 
-lispのS式でhtmlタグを作成
+lispのS式でhtmlタグを作成し、htmlファイル出力
 
 
 # DEMO
